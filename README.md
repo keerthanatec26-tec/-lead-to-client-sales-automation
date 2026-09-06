@@ -43,7 +43,7 @@ Most businesses handle inbound leads manually: someone checks the inbox, researc
 
 # Demo
 
-[![Watch the demo](assets/demo-video-thumbnail.png)](https://youtu.be/YOUR-VIDEO-LINK)
+
 
 *Click the image above to watch a full walkthrough of the pipeline in action.*
 
@@ -52,13 +52,17 @@ Most businesses handle inbound leads manually: someone checks the inbox, researc
 # Screenshots
 
 **Real-time Slack alert for a hot lead:**
-![Slack alert](assets/slack-alert.png)
+<img width="1902" height="911" alt="slack-alert" src="https://github.com/user-attachments/assets/8b5ee618-ee4d-49d9-ae3b-99e8b1961f69" />
+
 
 **CRM logging in Google Sheets:**
-![CRM sheet](assets/crm-sheet.png)
+<img width="1897" height="767" alt="crm-sheet" src="https://github.com/user-attachments/assets/b79550e7-38dc-40b3-ac55-f19472f9d04c" />
+
 
 **AI-personalized outreach email, actually received:**
-![Sample email](assets/sample-email.png)
+<img width="738" height="1600" alt="sample-email(HOT)" src="https://github.com/user-attachments/assets/563bf4d9-d26e-4fe3-a059-ccab6052a8c3" />
+<img width="738" height="1600" alt="sample-email(WARM)" src="https://github.com/user-attachments/assets/f74494d3-6af4-49b7-b5d9-6816b20936fd" />
+
 
 ---
 
